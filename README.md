@@ -8,7 +8,7 @@ This repo contains an implementation of stage2 logisitic regression for SQuAD 2.
 * Non-docker installation: In case docker did not work:
   * `git clone https://github.com/raghebalghezi/squad_hw4.git`
   * `cd  squad-final`
-  * `unzip with_pos_overlap_score.csv.zip`
+  * `unzip serialized_df.pkl.zip`
   * `pip install scikit-learn pandas matplotlib`
   * `python squad2_hw4.py`
 
